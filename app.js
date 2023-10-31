@@ -4,7 +4,7 @@ const PORT = 3000;
 
 import {
   getTeams,
-  getTeamByID,
+  getTeamsById,
   // addTeam,
   // editTeam,
   // deleteTeam,
@@ -33,7 +33,7 @@ app.get('/', function (req, res) {
   app.get("/teams/:id", async function(req, res) {
     // store id parameter as a variable named id
     const teamsId = req.params.id;
-    const team = await getTeamByID(teamsId);
+    const team = await getTeamsById(teamsId);
     const responseObj = {
       status: "success",
       data: team,

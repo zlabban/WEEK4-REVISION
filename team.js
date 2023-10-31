@@ -9,3 +9,16 @@ export async function getTeams() {
     const teams = JSON.parse(teamsJSON);
     return teams;
   }
+
+  export async function getTeamsById(id) {
+    const teamsJSON = await fs.readFile(filePath, "utf-8");
+    const teams = JSON.parse(teamsJSON);
+
+    for (const team of teams) {
+        if (team.id === id) {
+          return team;
+        }
+      }
+
+      return null;
+    }
