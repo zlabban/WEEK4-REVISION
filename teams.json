@@ -1,7 +1,102 @@
 [
-{
-    "id": "1",
-    "team": "Tottenham Hotspurs",
+  {
+    "id": "9d542c05-e25e-4f3c-9dd0-8b4d0a7a6ef2",
+    "team": "Arsenal",
     "position": "1st"
-}
+  },
+  {
+    "id": "d9d6a0ac-8a9d-4e0f-9a57-c188d63a5c4a",
+    "team": "Aston Villa",
+    "position": "1st"
+  },
+  {
+    "id": "6e41f1e0-80ed-4e8f-8e0e-eb7e2a3a65a6",
+    "team": "Brentford",
+    "position": "1st"
+  },
+  {
+    "id": "cf82ff5a-618f-4e37-8b6c-d211ee88a9a1",
+    "team": "Brighton & Hove Albion",
+    "position": "1st"
+  },
+  {
+    "id": "7a71f171-30e7-49cd-9715-3e07c42cbb9c",
+    "team": "Burnley",
+    "position": "1st"
+  },
+  {
+    "id": "4be5a4c2-36fc-4d8a-a6e6-44c5868727a2",
+    "team": "Chelsea",
+    "position": "1st"
+  },
+  {
+    "id": "e3f26c7b-6fcf-4e12-83e0-8547d640a14e",
+    "team": "Crystal Palace",
+    "position": "1st"
+  },
+  {
+    "id": "0b6f0e92-0706-4cde-8d35-4e350e223a95",
+    "team": "Everton",
+    "position": "1st"
+  },
+  {
+    "id": "07a9f09b-764c-4a8b-8b79-8f67f59d77d4",
+    "team": "Leeds United",
+    "position": "1st"
+  },
+  {
+    "id": "01a165ed-3b9b-4e8f-9e6d-0cd076f79a6b",
+    "team": "Leicester City",
+    "position": "1st"
+  },
+  {
+    "id": "35a4506e-8b19-4f6b-a9a2-3c9e220da417",
+    "team": "Liverpool",
+    "position": "1st"
+  },
+  {
+    "id": "f11c27f1-89c1-4426-89d7-04ee2afced3a",
+    "team": "Manchester City",
+    "position": "1st"
+  },
+  {
+    "id": "8118a5c9-757a-4c06-b0a6-55b6bb8a6e83",
+    "team": "Manchester United",
+    "position": "1st"
+  },
+  {
+    "id": "fb51d3a2-d77f-4c8f-ba4c-17ce1167ce63",
+    "team": "Newcastle United",
+    "position": "1st"
+  },
+  {
+    "id": "3027d291-dfb5-4a62-a8d3-ecaf4d2c7e20",
+    "team": "Norwich City",
+    "position": "1st"
+  },
+  {
+    "id": "3c23f44f-71f7-457a-8a0d-169090f78b76",
+    "team": "Southampton",
+    "position": "1st"
+  },
+  {
+    "id": "618cb2f5-5f6e-4674-ba48-01f0a1d6a74d",
+    "team": "Tottenham Hotspur",
+    "position": "1st"
+  },
+  {
+    "id": "a21b2e35-aa0f-4c0c-95e4-36b9cf5db0ce",
+    "team": "Watford",
+    "position": "1st"
+  },
+  {
+    "id": "f4d3b66c-1e6c-42b9-8588-6f2f6f5d5d5a",
+    "team": "West Ham United",
+    "position": "1st"
+  },
+  {
+    "id": "f2e9e8ce-527c-416d-a975-b41a4b891f31",
+    "team": "Wolverhampton Wanderers",
+    "position": "1st"
+  }
 ]
